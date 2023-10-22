@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+matplotlib
+missingno
+scikit-learn
+Pillow
+requests
+flask
+tensorflow-hub
+tensorflow
+pickle
